@@ -22,35 +22,22 @@
 
 ## 文件位置
 
-
+```
 ├── bin		// php运行环境
-
 │   ├── dev
-
 │   ├── ext
-
 │   ├── extras
-
 │   ├── lib
-
 │   └── sasl2
-
 └── src  	// php代码
-
     ├── class	// 冗余文件夹
-
     ├── css 	// css样式位置
-
     ├── data  	// sqlite数据库文件夹，含备份文件夹
-
     ├── fonts 	// 字体文件夹
-
     ├── js 		// js文件夹
-
     ├── plugins // 相关插件的仓库，冗余
-
     └── scss 	// 冗余
-
+```
 
 ## 注意事项
 
