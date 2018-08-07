@@ -1,0 +1,12 @@
+[    
+  {
+    "id": "1",
+    "name": "中华铅笔",
+    "spec": "0.5mm ",
+    "unit": "支",
+    "c_count": "200",
+    "i_count": "500",
+    "o_count": "300",
+    "delete": "<a href=\"#\" onclick='del_id($(this))'>删除</a>"
+  }
+]
